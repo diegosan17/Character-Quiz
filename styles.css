@@ -29,3 +29,7 @@ body {
 #bill {
     display: none;
 }
+
+#restartBtn {
+    margin-top: 20px;
+}
