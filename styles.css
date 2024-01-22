@@ -9,25 +9,31 @@ body {
     color: white;
     font-family: 'Salsa', cursive;
 }
-
+#coverimg{
+width:300px;
+}
 .question2 {
     width: 60px;
 }
 
 #dipper {
     display: none;
+    width: 150px;
 }
 
 #mabel {
     display: none;
+    width: 150px;
 }
 
 #stan {
     display: none;
+    width: 150px;
 }
 
 #bill {
     display: none;
+    width: 150px;
 }
 
 #restartBtn {
